@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="button1">25sp</dimen>
+    <dimen name="btn1margin">32dp</dimen>
+    <dimen name="btn2fonts">18sp</dimen>
+    <dimen name="text1width">262dp</dimen>
+    <dimen name="text1height">40dp</dimen>
+    <dimen name="text1margin">10sp</dimen>
+    <dimen name="vector_width">418dp</dimen>
+    <dimen name="vector_height">333dp</dimen>
+    <dimen name="background_width">76dp</dimen>
+    <dimen name="background_height">76dp</dimen>
+    <dimen name="btn2">130dp</dimen>
+    <dimen name="btn_height">49dp</dimen>
+    <dimen name="marginLeft_textview">80sp</dimen>
+    <dimen name="marginTop_textview">20sp</dimen>
+    <dimen name="marginright_textview">75sp</dimen>
+    <dimen name="bottom_textview">10sp</dimen>
+    <dimen name="titletextt">24sp</dimen>
+    <dimen name="subtitlefont">24sp</dimen>
+    <dimen name="form_font">24sp</dimen>
+    <dimen name="form_font">24sp</dimen>
+    
+</resources>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Chamith/AndroidStudioProjects/Edu/app/src/main/res/drawable-v24/btn3.xml" value="0.112" />
+        <entry key="..\:/Users/Chamith/AndroidStudioProjects/Edu/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.121" />
+        <entry key="..\:/Users/Chamith/AndroidStudioProjects/Edu/app/src/main/res/drawable/all_rounded_corner.xml" value="0.1" />
+        <entry key="..\:/Users/Chamith/AndroidStudioProjects/Edu/app/src/main/res/drawable/blog.xml" value="0.1" />
+        <entry key="..\:/Users/Chamith/AndroidStudioProjects/Edu/app/src/main/res/drawable/book1_background.xml" value="0.1" />
+        <entry key="..\:/Users/Chamith/AndroidStudioProjects/Edu/app/src/main/res/drawable/btn1.xml" value="0.2205" />
+        <entry key="..\:/Users/Chamith/AndroidStudioProjects/Edu/app/src/main/res/drawable/btn2.xml" value="0.2205" />
+        <entry key="..\:/Users/Chamith/AndroidStudioProjects/Edu/app/src/main/res/drawable/btn4.xml" value="0.1395" />
+        <entry key="..\:/Users/Chamith/AndroidStudioProjects/Edu/app/src/main/res/drawable/ic_baseline_account_box_24.xml" value="0.1" />
+        <entry key="..\:/Users/Chamith/AndroidStudioProjects/Edu/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1" />
+        <entry key="..\:/Users/Chamith/AndroidStudioProjects/Edu/app/src/main/res/drawable/ic_baseline_menu_book_24.xml" value="0.1395" />
+        <entry key="..\:/Users/Chamith/AndroidStudioProjects/Edu/app/src/main/res/drawable/ic_baseline_notifications_24.xml" value="0.1395" />
+        <entry key="..\:/Users/Chamith/AndroidStudioProjects/Edu/app/src/main/res/drawable/ic_launcher_background.xml" value="0.121" />
+        <entry key="..\:/Users/Chamith/AndroidStudioProjects/Edu/app/src/main/res/drawable/ic_menuL_background.xml" value="0.112" />
+        <entry key="..\:/Users/Chamith/AndroidStudioProjects/Edu/app/src/main/res/drawable/ic_menuP_background.xml" value="0.112" />
+        <entry key="..\:/Users/Chamith/AndroidStudioProjects/Edu/app/src/main/res/drawable/ic_undraw_wall_post_re_y78d.xml" value="0.1395" />
+        <entry key="..\:/Users/Chamith/AndroidStudioProjects/Edu/app/src/main/res/drawable/notifications.xml" value="0.1395" />
+        <entry key="..\:/Users/Chamith/AndroidStudioProjects/Edu/app/src/main/res/drawable/round_corners.xml" value="0.1" />
+        <entry key="..\:/Users/Chamith/AndroidStudioProjects/Edu/app/src/main/res/drawable/sevenMoons_background.xml" value="0.112" />
+        <entry key="..\:/Users/Chamith/AndroidStudioProjects/Edu/app/src/main/res/drawable/text_veiw_edit.xml" value="0.2205" />
+        <entry key="..\:/Users/Chamith/AndroidStudioProjects/Edu/app/src/main/res/layout/activity_add_blog_post.xml" value="0.264" />
+        <entry key="..\:/Users/Chamith/AndroidStudioProjects/Edu/app/src/main/res/layout/activity_add_class.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/Chamith/AndroidStudioProjects/Edu/app/src/main/res/layout/activity_blogform.xml" value="0.1" />
+        <entry key="..\:/Users/Chamith/AndroidStudioProjects/Edu/app/src/main/res/layout/activity_blogs.xml" value="0.22807017543859648" />
+        <entry key="..\:/Users/Chamith/AndroidStudioProjects/Edu/app/src/main/res/layout/activity_book_store.xml" value="0.264" />
+        <entry key="..\:/Users/Chamith/AndroidStudioProjects/Edu/app/src/main/res/layout/activity_class_update.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/Chamith/AndroidStudioProjects/Edu/app/src/main/res/layout/activity_course.xml" value="0.22807017543859648" />
+        <entry key="..\:/Users/Chamith/AndroidStudioProjects/Edu/app/src/main/res/layout/activity_course_overview.xml" value="0.176" />
+        <entry key="..\:/Users/Chamith/AndroidStudioProjects/Edu/app/src/main/res/layout/activity_donation.xml" value="0.176" />
+        <entry key="..\:/Users/Chamith/AndroidStudioProjects/Edu/app/src/main/res/layout/activity_donator_register.xml" value="0.16733067729083664" />
+        <entry key="..\:/Users/Chamith/AndroidStudioProjects/Edu/app/src/main/res/layout/activity_donor_account.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/Chamith/AndroidStudioProjects/Edu/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/Chamith/AndroidStudioProjects/Edu/app/src/main/res/layout/activity_main.xml" value="0.22807017543859648" />
+        <entry key="..\:/Users/Chamith/AndroidStudioProjects/Edu/app/src/main/res/layout/activity_menu_page_layout.xml" value="0.2" />
+        <entry key="..\:/Users/Chamith/AndroidStudioProjects/Edu/app/src/main/res/layout/activity_notification.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/Chamith/AndroidStudioProjects/Edu/app/src/main/res/layout/activity_register.xml" value="0.234375" />
+        <entry key="..\:/Users/Chamith/AndroidStudioProjects/Edu/app/src/main/res/layout/activity_student_account.xml" value="0.2" />
+        <entry key="..\:/Users/Chamith/AndroidStudioProjects/Edu/app/src/main/res/layout/activity_student_progress.xml" value="0.16979166666666667" />
+        <entry key="..\:/Users/Chamith/AndroidStudioProjects/Edu/app/src/main/res/layout/activity_teacher_account.xml" value="0.176" />
+        <entry key="..\:/Users/Chamith/AndroidStudioProjects/Edu/app/src/main/res/layout/activity_teacher_progressbar.xml" value="0.2" />
+        <entry key="..\:/Users/Chamith/AndroidStudioProjects/Edu/app/src/main/res/layout/activity_teacher_register.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/Chamith/AndroidStudioProjects/Edu/app/src/main/res/layout/activity_teachercourseveiw.xml" value="0.2" />
+        <entry key="..\:/Users/Chamith/AndroidStudioProjects/Edu/app/src/main/res/layout/activity_user_account.xml" value="0.2" />
+        <entry key="..\:/Users/Chamith/AndroidStudioProjects/Edu/app/src/main/res/layout/activity_viewblog.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/Chamith/AndroidStudioProjects/Edu/app/src/main/res/layout/addcomments.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/Chamith/AndroidStudioProjects/Edu/app/src/main/res/layout/btn2.xml" value="0.1" />
+        <entry key="..\:/Users/Chamith/AndroidStudioProjects/Edu/app/src/main/res/layout/fragment_account.xml" value="0.1" />
+        <entry key="..\:/Users/Chamith/AndroidStudioProjects/Edu/app/src/main/res/layout/fragment_dash.xml" value="0.2" />
+        <entry key="..\:/Users/Chamith/AndroidStudioProjects/Edu/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/Chamith/AndroidStudioProjects/Edu/app/src/main/res/layout/login.xml" value="0.264" />
+        <entry key="..\:/Users/Chamith/AndroidStudioProjects/Edu/app/src/main/res/layout/moneydonations.xml" value="0.2222222222222222" />
+        <entry key="..\:/Users/Chamith/AndroidStudioProjects/Edu/app/src/main/res/layout/register.xml" value="0.2" />
+        <entry key="..\:/Users/Chamith/AndroidStudioProjects/Edu/app/src/main/res/menu/menu.xml" value="0.1" />
+        <entry key="..\:/Users/Chamith/AndroidStudioProjects/Edu/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1785" />
+        <entry key="..\:/Users/Chamith/AndroidStudioProjects/Edu/app/src/main/res/mipmap-anydpi-v26/ic_menuL_round.xml" value="0.112" />
+        <entry key="..\:/Users/Chamith/AndroidStudioProjects/Edu/app/src/main/res/mipmap-anydpi-v26/ic_menuP_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.2222222222222222" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

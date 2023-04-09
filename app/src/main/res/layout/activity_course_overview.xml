@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Donation">
+
+    <ImageView
+        android:id="@+id/imageView21"
+        android:layout_width="76dp"
+        android:layout_height="76dp"
+        app:srcCompat="@drawable/ic_baseline_keyboard_arrow_left_24"
+        tools:layout_editor_absoluteX="10dp"
+        tools:layout_editor_absoluteY="-4dp" />
+
+    <TextView
+        android:id="@+id/textView28"
+        android:layout_width="186dp"
+        android:layout_height="43dp"
+        android:layout_marginTop="16dp"
+        android:text="@string/course_overview"
+        android:textColor="@color/fontBlue1"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="@+id/linearLayout8"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="@+id/linearLayout8"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout8"
+        android:layout_width="347dp"
+        android:layout_height="612dp"
+        android:background="@drawable/all_rounded_corner"
+        android:orientation="vertical"
+        android:padding="8sp"
+        tools:layout_editor_absoluteX="23dp"
+        tools:layout_editor_absoluteY="86dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_marginLeft="10sp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/textView21"
+                android:layout_width="123dp"
+                android:layout_height="63dp"
+                android:text="@string/subject"
+                android:textColor="@color/black"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textView30"
+                android:layout_width="123dp"
+                android:layout_height="63dp"
+                android:layout_marginLeft="25sp"
+                android:text="@string/maths"
+                android:textColor="@color/fontBlue1"
+                android:textSize="20sp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="64dp"
+            android:layout_marginLeft="10sp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/textView31"
+                android:layout_width="137dp"
+                android:layout_height="38dp"
+                android:text="@string/guide_by"
+                android:textColor="@color/black"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textView33"
+                android:layout_width="185dp"
+                android:layout_height="45dp"
+                android:text="@string/anjana_dissanayake"
+                android:textColor="@color/fontBlue1"
+                android:textSize="20sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/textView34"
+                android:layout_width="149dp"
+                android:layout_height="71dp"
+                android:layout_marginLeft="10sp"
+                android:text="Grade :"
+                android:textColor="@color/black"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textView46"
+                android:layout_width="45dp"
+                android:layout_height="35dp"
+                android:text="10"
+                android:textColor="@color/fontBlue1"
+                android:textSize="20sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="57dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/textView42"
+                android:layout_width="157dp"
+                android:layout_height="40dp"
+                android:paddingLeft="10sp"
+                android:text="On :"
+                android:textColor="@color/black"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textView19"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/monday"
+                android:textColor="@color/fontBlue1"
+                android:textSize="20sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/textView43"
+                android:layout_width="40dp"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="10sp"
+                android:text=" At :"
+                android:textColor="@color/black"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textView44"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="100sp"
+                android:text="@string/_2_30_pm_5_30_pm"
+                android:textColor="@color/fontBlue1"
+                android:textSize="20sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="356dp"
+            android:layout_height="148dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/textView35"
+                android:layout_width="151dp"
+                android:layout_height="38dp"
+                android:layout_marginLeft="10sp"
+                android:text="Link for class :"
+                android:textColor="@color/black"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textView22"
+                android:layout_width="197dp"
+                android:layout_height="139dp"
+                android:text="TextView"
+                android:textColor="@color/fontBlue1"
+                android:textSize="20sp"
+                tools:text="Join Zoom Meeting https://zoom.us/j/95610150099?pwd=QXlsZUFiemt4cldmejdJYWtKdDV5QT09 " />
+
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/textView36"
+            android:layout_width="306dp"
+            android:layout_height="42dp"
+            android:layout_marginLeft="10sp"
+            android:text="@string/you_can_donate_me_if_you_like"
+            android:textColor="@color/cardview_dark_background"
+            android:textSize="20sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="65dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/textView37"
+                android:layout_width="151dp"
+                android:layout_height="42dp"
+                android:layout_marginLeft="10sp"
+                android:text="@string/acoount_no"
+                android:textColor="@color/black"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textView25"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="456434675"
+                android:textColor="@color/fontBlue1"
+                android:textSize="20sp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="349dp"
+            android:layout_height="35dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/textView38"
+                android:layout_width="161dp"
+                android:layout_height="match_parent"
+                android:paddingLeft="10sp"
+                android:text="@string/bank_branch"
+                android:textColor="@color/black"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textView45"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/malabe_boc"
+                android:textColor="@color/fontBlue1"
+                android:textSize="20sp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="59dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/textView39"
+                android:layout_width="147dp"
+                android:layout_height="39dp"
+                android:layout_marginLeft="10sp"
+                android:text="@string/contact"
+                android:textColor="@color/black"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/textView27"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/_078_xxxxxxx"
+                android:textColor="@color/fontBlue1"
+                android:textSize="20sp" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

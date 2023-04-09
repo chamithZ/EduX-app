@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AddBlogPost">
+
+    <ImageView
+        android:id="@+id/imageView17"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:scaleType="centerCrop"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/top_background" />
+
+    <TextView
+        android:id="@+id/textView23"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/btn1margin"
+        android:fontFamily="@font/oswald"
+        android:text="@string/add_a_blog_post"
+        android:textAlignment="center"
+        android:textColor="@color/pgrey"
+        android:textSize="@dimen/button1"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="114dp" />
+
+    <TextView
+        android:id="@+id/class_subject"
+        android:layout_width="221dp"
+        android:layout_height="28dp"
+        android:background="@drawable/btn2"
+        android:backgroundTint="#C4E0E0E0"
+        android:hint="@string/enter_blog_topic_here"
+        android:textAlignment="center"
+        android:textSize="@dimen/btn2fonts"
+        app:layout_constraintEnd_toEndOf="@+id/imageView16"
+        app:layout_constraintStart_toStartOf="@+id/imageView16"
+        tools:layout_editor_absoluteY="353dp" />
+
+    <TextView
+        android:id="@+id/blogPost"
+        android:layout_width="238dp"
+        android:layout_height="130dp"
+        android:background="@drawable/btn2"
+        android:backgroundTint="#C4E0E0E0"
+        android:hint="@string/type_your_blog_post_here"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="@+id/class_subject"
+        app:layout_constraintHorizontal_bias="0.352"
+        app:layout_constraintStart_toStartOf="@+id/class_subject"
+        tools:layout_editor_absoluteY="406dp" />
+
+    <TextView
+        android:id="@+id/textView41"
+        android:layout_width="227dp"
+        android:layout_height="28dp"
+        android:background="@drawable/btn2"
+        android:backgroundTint="#C4E0E0E0"
+        android:hint="@string/enter_author_name"
+        android:textAlignment="center"
+        android:textSize="18sp"
+        app:layout_constraintEnd_toEndOf="@+id/blogPost"
+        app:layout_constraintHorizontal_bias="0.545"
+        app:layout_constraintStart_toStartOf="@+id/blogPost"
+        tools:layout_editor_absoluteY="555dp" />
+
+    <ImageView
+        android:id="@+id/imageView16"
+        android:layout_width="199dp"
+        android:layout_height="178dp"
+        app:layout_constraintEnd_toEndOf="@+id/textView23"
+        app:layout_constraintStart_toStartOf="@+id/textView23"
+        app:srcCompat="@drawable/ic_undraw_online_article_re_daq5__1_"
+        tools:layout_editor_absoluteY="153dp" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="56dp"
+        android:background="@drawable/btn1"
+        android:text="@string/add_post"
+        android:textColor="@color/pgrey"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/textView41"
+        app:layout_constraintHorizontal_bias="0.546"
+        app:layout_constraintStart_toStartOf="@+id/textView41" />
+
+    <ImageView
+        android:id="@+id/imageView19"
+        android:layout_width="46dp"
+        android:layout_height="40dp"
+        android:layout_marginBottom="81dp"
+        app:layout_constraintBottom_toTopOf="@+id/imageView16"
+        app:layout_constraintEnd_toStartOf="@+id/textView23"
+        app:layout_constraintHorizontal_bias="0.441"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0"
+        app:srcCompat="@drawable/ic_baseline_keyboard_arrow_left_24" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

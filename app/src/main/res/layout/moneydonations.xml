@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".BookStore">
+
+    <LinearLayout
+        android:id="@+id/linearLayout4"
+        android:layout_width="367dp"
+        android:layout_height="419dp"
+        android:orientation="vertical"
+        tools:layout_editor_absoluteX="13dp"
+        tools:layout_editor_absoluteY="166dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="198dp"
+            android:background="@drawable/all_rounded_corner"
+            android:orientation="vertical"
+            android:padding="10sp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/textView55"
+                    android:layout_width="137dp"
+                    android:layout_height="38dp"
+                    android:layout_weight="1"
+                    android:text="Name :"
+                    android:textColor="@color/black"
+                    android:textSize="20sp" />
+
+                <TextView
+                    android:id="@+id/textView56"
+                    android:layout_width="185dp"
+                    android:layout_height="45dp"
+                    android:layout_weight="1"
+                    android:text="@string/anjana_dissanayake"
+                    android:textColor="@color/fontBlue1"
+                    android:textSize="20sp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="355dp"
+                android:layout_height="60dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/Book1"
+                    android:layout_width="170dp"
+                    android:layout_height="41dp"
+                    android:layout_marginLeft="10sp"
+                    android:layout_marginTop="5sp"
+                    android:text="Account number :"
+                    android:textColor="@color/black"
+                    android:textSize="20sp" />
+
+                <TextView
+                    android:id="@+id/textView54"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="456434675"
+                    android:textColor="@color/fontBlue1"
+                    android:textSize="20sp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="68dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/book2T"
+                    android:layout_width="121dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10sp"
+                    android:text="Contact me"
+                    android:textColor="@color/black"
+                    android:textSize="20sp" />
+
+                <TextView
+                    android:layout_width="172dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="80sp"
+                    android:background="@drawable/btn2"
+                    android:padding="16dp"
+                    android:text="078-XXXXXXX"
+                    android:textSize="18sp" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linearLayout2"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="10sp"
+            android:background="@drawable/all_rounded_corner"
+            android:orientation="vertical"
+            android:padding="10sp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/textView59"
+                    android:layout_width="185dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:text="Name :"
+                    android:textColor="@color/black"
+                    android:textSize="20sp" />
+
+                <TextView
+                    android:id="@+id/textView57"
+                    android:layout_width="239dp"
+                    android:layout_height="37dp"
+                    android:layout_weight="1"
+                    android:text="Sehan Arandara"
+                    android:textColor="@color/fontBlue1"
+                    android:textSize="20sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/textView60"
+                    android:layout_width="103dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10sp"
+                    android:layout_weight="1"
+                    android:text="@string/acoount_no"
+                    android:textColor="@color/black"
+                    android:textSize="20sp" />
+
+                <TextView
+                    android:id="@+id/textView62"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:text="456434675"
+                    android:textColor="@color/fontBlue1"
+                    android:textSize="20sp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/book2T"
+                    android:layout_width="121dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10sp"
+                    android:text="@string/contact_me"
+                    android:textColor="@color/black"
+                    android:textSize="20sp" />
+
+                <TextView
+                    android:layout_width="167dp"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="80sp"
+                    android:background="@drawable/btn2"
+                    android:padding="16dp"
+                    android:text="@string/_078_xxxxxxx"
+                    android:textSize="18sp" />
+            </LinearLayout>
+
+        </LinearLayout>
+    </LinearLayout>
+
+
+    <TextView
+        android:id="@+id/textView20"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24dp"
+        android:fontFamily="@font/oswald"
+        android:text="Donate money for teahcers"
+        android:textColor="@color/fontBlue1"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="29dp" />
+
+    <TextView
+        android:id="@+id/textView24"
+        android:layout_width="365dp"
+        android:layout_height="31dp"
+        android:text="Teacher's Bank account details"
+        android:textColor="@color/Pcolor"
+        android:textSize="24sp"
+        app:layout_constraintEnd_toEndOf="@+id/linearLayout4"
+        app:layout_constraintStart_toStartOf="@+id/linearLayout4"
+        tools:layout_editor_absoluteY="124dp" />
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottom_navigation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/round_corners"
+        app:itemIconTint="#ffff"
+        app:itemTextColor="#ffff"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:menu="@menu/menu" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
